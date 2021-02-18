@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Feb 14 19:39:59 2021
-
-@author: clara
+Usefull file to create librairy for subtring kernel
 """
 
 from distutils.core import setup
