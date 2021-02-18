@@ -15,7 +15,7 @@ The repository contains the following folders:
 * gram_matrix: contains the gram matrices created during the fit of the methods
 * predictions: contains the results of the prediction on the test set
 
-The file ''src/start.py'' reproduces our best submission.
+The file ``src/start.py`` reproduces our best submission.
 
 ## Rank
 **Score (public/private)**: 0.668/0.672 
