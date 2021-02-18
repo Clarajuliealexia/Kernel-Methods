@@ -18,7 +18,7 @@ The repository contains the following folders:
 The file src/start.py reproduces our best submission.
 
 ## Rank
-**Score (public/private)**: $0.668$/$0.672$ 
+**Score (public/private)**: 0.668/0.672 
 
 **Rank (public/private)**: 18/20 over 32
 
