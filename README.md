@@ -10,8 +10,8 @@ In this challenge we could not use machine learning librairies.
 
 ## Structure
 The repository contains the following folders:
-* src: contains the scripts of all functions implemented during this project
 * data: contains the csv files of the datasets (in raw or numerical form)
+* src: contains the scripts of all functions implemented during this project (kernels, KRR, SVM, utils...)
 * gram_matrix: contains the gram matrices created during the fit of the methods
 * predictions: contains the results of the prediction on the test set
 
